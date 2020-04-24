@@ -18,5 +18,27 @@ Eine Plattform für alle Arten von Corona-Lifehacks. Die Platform ist ein Medium
  Menschen (Lifehack-thingy um Distanzen besser einschätzen zu können, ...). Die Plattform wär ganz generell gedacht 
  also für Privatleute, Leute im Home-office oder mit Kindern daheim, Personal in Pflegeeinrichtungen und Krankenhäusern, ...
   
-## What id Does
+## What it Does
 
+
+-----
+# For registration:
+
+# Here's the elevator pitch
+
+
+# Here's the whole story
+
+## Inspiration
+
+## What it does
+
+## How I built it
+
+## Challenges I ran into
+
+## Accomplishments that I'm proud of
+
+## What I learned
+
+## What's next for CoronaOverflow
